@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>5C0F6C0A-D5AA-4969-9189-E629D8DE1295</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C0F6C0A-D5AA-4969-9189-E629D8DE1295.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>creaternwapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>creaternwapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project creaternwapp with scheme creaternwapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572715146.65482295</real>
+			<key>timeStoppedRecording</key>
+			<real>572715160.57086802</real>
+			<key>title</key>
+			<string>Building project creaternwapp with scheme creaternwapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5C0F6C0A-D5AA-4969-9189-E629D8DE1295</string>
+		</dict>
+		<key>8C8E14C6-AC6E-4F0E-A36D-29EA771D5D29</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8C8E14C6-AC6E-4F0E-A36D-29EA771D5D29.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>creaternwapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>creaternwapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project creaternwapp with scheme creaternwapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>572714759.90973401</real>
+			<key>timeStoppedRecording</key>
+			<real>572714763.90511096</real>
+			<key>title</key>
+			<string>Building project creaternwapp with scheme creaternwapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8C8E14C6-AC6E-4F0E-A36D-29EA771D5D29</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
